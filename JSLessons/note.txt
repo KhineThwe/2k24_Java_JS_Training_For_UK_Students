@@ -1,0 +1,21 @@
+Variable 
+vary + able
+
+var num
+
+Naming conversion
+---------------------------------
+1.abcABC eg.age,Age,
+purchaseAmount  ---> camelCase
+purchase_amount  ---> snakeCase
+NumberOfDonuts   --> PascalCase
+purchase-amount  --> KebabCase
+
+2.123(do not start with number)  no
+eg.num1,num2  ---> yes
+
+3.space   ---> no
+
+4.underscore allowed eg.date_of_birth
+
+5.+,-,..
